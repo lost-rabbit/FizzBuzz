@@ -1,6 +1,7 @@
 //print everyone number but on multiple of 3 say fizz 
 //on multiple of 5 say buzz 
 // multiple of 3 and 5 print fizzbuzz
+//this was super easy lol
 
 #include <iostream>
 
